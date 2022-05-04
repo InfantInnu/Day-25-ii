@@ -1,0 +1,39 @@
+.search-bar{
+    align-items: center;
+    margin-left: 600px;
+    font-size: 19px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+body{
+    background-image:url(https://research.umn.edu/sites/research.umn.edu/files/blog-coronavirus.png);
+}
+button{
+    margin-left: 100px;
+    font-size: 15px;
+    border-radius: 5px;
+}
+button:hover{
+    cursor: pointer;
+    background-color: aquamarine;
+}
+input{
+    font-size: 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+.head{
+    margin-left: 650px;
+    font-family:Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    
+}
+h1{
+    color:#570e64;
+    
+}
+span{
+    color:green;
+    font-family:sans-serif;
+    font-weight: bold;
+}
